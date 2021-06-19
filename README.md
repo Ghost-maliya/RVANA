@@ -7,15 +7,15 @@
 - [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
 - [@kappithannemo](https://github.com/kappithannemo)
 
-<h1 align="center"><b>  ☯RAVANA whatsapp BOT☮  </b></h1>
+<h1 align="center"><b>  😈😇👻 im Ghost baby 👻</b></h1>
 <div align="center">
 
-  <img src="https://telegra.ph/file/24cacd9938446a38180fd.png" width="210" height="210">
+  <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpgh" width="210" height="210">
 
-  <h1>A modified Version of 🐺 WhatsAsena Duplicated</h1>
+  <h1>fuck me version </h1>
 
 
  `GNU General Public Licence v3.0` license.
 Assign Credit to developers.Dont edit out the copyright messages!
   
-  ## only for Dinal  and  Prabath
+  ## credit must goes to @prabath_dimuthu
