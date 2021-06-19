@@ -10,7 +10,7 @@
 <h1 align="center"><b>  😈😇👻 im Ghost baby 👻</b></h1>
 <div align="center">
 
-  <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpgh" width="210" height="210">
+  <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpg" width="210" height="210">
 
   <h1>fuck me version </h1>
 
